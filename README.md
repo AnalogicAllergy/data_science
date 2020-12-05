@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://kaggle.com/">
-    <img src="https://www.kaggle.com/static/images/site-logo.png
-" alt="Logo" width=72 height=72>
+    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Previsão de vendas nas lojas da Rossmann</h3>
@@ -45,10 +44,10 @@ Serão fornecidos dados históricos de venda de 1115 lojas da Rossmann. A tarefa
 
 Estão localizados no diretório `data`
 
-> train.csv - historical data including Sales
-> test.csv - historical data excluding Sales
-> sample_submission.csv - a sample submission file in the correct format
-> store.csv - supplemental information about the stores
+> - train.csv - historical data including Sales
+> - test.csv - historical data excluding Sales
+> - sample_submission.csv - a sample submission file in the correct format
+> - store.csv - supplemental information about the stores
 
 ### Campos de dados
 
@@ -65,23 +64,23 @@ Estão localizados no diretório `data`
 > - StoreType - differentiates between 4 different store models: a, b, c, d
 > - Assortment - describes an assortment level: a = basic, b = extra, c = extended
 > - CompetitionDistance - distance in meters to the nearest competitor store
-> - CompetitionOpenSince[Month/Year] - gives the approximate year and month of the > time the nearest competitor was opened
+> - CompetitionOpenSince[Month/Year] - gives the approximate year and month of the time the nearest competitor was opened
 > - Promo - indicates whether a store is running a promo on that day
-> - Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = > store is not participating, 1 = store is participating
-> - Promo2Since[Year/Week] - describes the year and calendar week when the store > started participating in Promo2
-> - PromoInterval - describes the consecutive intervals Promo2 is started, naming > the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round > starts in February, May, August, November of any given year for that store
+> - Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
+> - Promo2Since[Year/Week] - describes the year and calendar week when the store started participating in Promo2
+> - PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 ## Etapas CRISP-DS
 
 - [x] Descrição dos Dados
-- [] Feature Engineering
-- [] Filtragem de Variáveis
-- [] Análise Exploratória de Dados (EDA)
-- [] Preparação dos Dados
-- [] Seleção de Variáveis com Algoritmo
-- [] Modelos de Machine Learning
-- [] Hyperparameter Fine Tuning
-- [] Interpretação e Tradução do Erro
+- [ ] Feature Engineering
+- [ ] Filtragem de Variáveis
+- [ ] Análise Exploratória de Dados (EDA)
+- [ ] Preparação dos Dados
+- [ ] Seleção de Variáveis com Algoritmo
+- [ ] Modelos de Machine Learning
+- [ ] Hyperparameter Fine Tuning
+- [ ] Interpretação e Tradução do Erro
 
 ## Progresso
 
