@@ -73,8 +73,8 @@ Estão localizados no diretório `data`
 ## Etapas CRISP-DS
 
 - [x] Descrição dos Dados
-- [ ] Feature Engineering
-- [ ] Filtragem de Variáveis
+- [x] Feature Engineering
+- [x] Filtragem de Variáveis
 - [ ] Análise Exploratória de Dados (EDA)
 - [ ] Preparação dos Dados
 - [ ] Seleção de Variáveis com Algoritmo
@@ -86,20 +86,33 @@ Estão localizados no diretório `data`
 
 ### Descrição dos Dados
 
-    - Entendimento do Negócio do cliente
-    - Definição das Etapas do CRISP-DS
-    - Renomear as colunas para padrão
-    - Investigação de Data Dimensions
-    - Investigação de Datatypes
-    - Checagem da existência de N/A
-    - Corrigindo os N/A com base em conhecimento de negócio
-    - Mudança dos tipos de dados após corrigir os N/A
-    - Estatística Descritiva das variáveis *numéricas* (median, mean, std, skew, kurtosis)
-    - Estatística Descritiva das variáveis *categóricas* (boxplot)
+- Entendimento do Negócio do cliente
+- Definição das Etapas do CRISP-DS
+- Renomear as colunas para padrão
+- Investigação de Data Dimensions
+- Investigação de Datatypes
+- Checagem da existência de N/A
+- Corrigindo os N/A com base em conhecimento de negócio
+- Mudança dos tipos de dados após corrigir os N/A
+- Estatística Descritiva das variáveis _numéricas_ (median, mean, std, skew, kurtosis)
+- Estatística Descritiva das variáveis _categóricas_ (boxplot)
+
+### Feature Engineering
+
+- Criação do Mapa mental de hipóteses para motivar o feature engineering
+- Escrita de hipóteses com base no fenômeno a ser modelado, nos agentes e nos atributos dos agentes
+- Escolha da lista final de hipóteses
+- Aplicação de Feature Engineering no dataset
+- Derivação de variáveis com base nas features existentes
+
+### Filtragem de Variáveis
+
+- Aplicação de _filtragem_ de variáveis com base em _restrições_ de negócio
+- Aplicação de _seleção_ de variáveis conforme a _importância_ para o modelo.
 
 ## Dependências
 
-- matplotlib
+- Matplotlib
 - Seaborn
 - Pandas
 - Numpy
