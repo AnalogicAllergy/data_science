@@ -110,6 +110,11 @@ Estão localizados no diretório `data`
 - Aplicação de _filtragem_ de variáveis com base em _restrições_ de negócio
 - Aplicação de _seleção_ de variáveis conforme a _importância_ para o modelo.
 
+### Análise Exploratória de Dados
+
+- Diferenciação entre análises univariada, bivariada e multivariada
+- Análise exploratória de dados em variáveis univariadas numéricas e categóricas
+
 ## Dependências
 
 - Matplotlib
