@@ -114,6 +114,8 @@ Estão localizados no diretório `data`
 
 - Diferenciação entre análises univariada, bivariada e multivariada
 - Análise exploratória de dados em variáveis univariadas numéricas e categóricas
+- Análise de dados em variáveis bivariadas, onde podemos começar a validar as hipóteses que levantamos.
+- Aprendizado do uso dos gráficos de barplot, regplot (que mostra tendências) e o gráfico de heatmap (que nos mostra a força da correlação entre variáveis)
 
 ## Dependências
 
