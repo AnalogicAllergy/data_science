@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://kaggle.com/">
-    <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Logo" width=72 height=72>
+  <a href="https://rossmann.de/">
+    <img src="https://logodix.com/logo/1683841.gif" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Previsão de vendas nas lojas da Rossmann</h3>
