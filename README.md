@@ -129,6 +129,7 @@ Estão localizados no diretório `data`
 - Pyenv
 - Inflection
 - IPython
+- Scipy
 
 ## Criador
 
