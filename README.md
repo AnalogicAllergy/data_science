@@ -124,7 +124,7 @@ Estão localizados no diretório `data`
 
 - Aplicação de normalização de variáveis - quando necessário
 - Aplicação de _rescaling_ utilizando técnicas de RobustScaling para variáveis com _outliers_ mais elevados
-- - Aplicação de _rescaling_ utilizando técnicas de MinMaxScaling para variáveis com _outliers_ menos elevados
+- Aplicação de _rescaling_ utilizando técnicas de MinMaxScaling para variáveis com _outliers_ menos elevados
 
 ## Dependências
 
