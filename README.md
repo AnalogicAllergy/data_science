@@ -136,6 +136,7 @@ Estão localizados no diretório `data`
 - Inflection
 - IPython
 - Scipy
+- Sklearn
 
 ## Criador
 
