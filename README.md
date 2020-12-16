@@ -120,6 +120,12 @@ Estão localizados no diretório `data`
 - Aplicação de técnicas de análise multivariada em variáveis numéricas e categóricas utilizando heatmap para as variáveis numéricas e calculo de Cramér V para variáveis categóricas.
   - > O V2 de Cramer mede a associação entre duas variáveis (a variável de linha e a variável de coluna). Os valores do V2 de variam entre 0 e 1. Os valores altos do V2 de Cramer indicam uma relação mais forte entre as variáveis, e os valores menores para o V2 indicam uma relação fraca. Um valor de 0 indica que não existe uma associação. Um valor de 1 indica que não há uma associação muito forte entre as variáveis.
 
+### Preparação dos dados
+
+- Aplicação de normalização de variáveis - quando necessário
+- Aplicação de _rescaling_ utilizando técnicas de RobustScaling para variáveis com _outliers_ mais elevados
+- - Aplicação de _rescaling_ utilizando técnicas de MinMaxScaling para variáveis com _outliers_ menos elevados
+
 ## Dependências
 
 - Matplotlib
