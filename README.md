@@ -32,7 +32,7 @@
 
 > Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
-A Rossmann detém cerca de 3000 farmácias em 7 cidades da Europa. Ao gerente de cada loja foi dada a tarefa de prever as suas vendas diárias até 6 meses de antecedência. As vendas nas lojas são influenciadas por diversos fatores, dentre eles, promoções, competições, feriados escolares e estaduais, sasonalidade e localização. Com milhares de gerentes individuais predizendo vendas com base em circunstâncias únicas, a acurácia do resultado pode ser variada.
+A Rossmann detém cerca de 3000 farmácias em 7 cidades da Europa. Ao gerente de cada loja foi dada a tarefa de prever as suas vendas diárias até 6 semanas de antecedência. As vendas nas lojas são influenciadas por diversos fatores, dentre eles, promoções, competições, feriados escolares e estaduais, sasonalidade e localização. Com milhares de gerentes individuais predizendo vendas com base em circunstâncias únicas, a acurácia do resultado pode ser variada.
 
 ## Dados
 
