@@ -77,7 +77,7 @@ Estão localizados no diretório `data`
 - [x] Filtragem de Variáveis
 - [x] Análise Exploratória de Dados (EDA)
 - [x] Preparação dos Dados
-- [ ] Seleção de Variáveis com Algoritmo
+- [x] Seleção de Variáveis com Algoritmo
 - [ ] Modelos de Machine Learning
 - [ ] Hyperparameter Fine Tuning
 - [ ] Interpretação e Tradução do Erro
@@ -128,6 +128,20 @@ Estão localizados no diretório `data`
 - Aplicação de _encoding_ nas variáveis categóricas - LabelEncoding, One Hot Encoding e Ordinal Encoding
 - Implementação da transformação de natureza das variáveis com características cíclicas (dia, mês, semana do ano, dia da semana) através de técnicas trigonométricas (sin e cos)
 
+### Seleção de variáveis com algoritmo
+
+- Visa enteder a relevância das variáveis para o modelo.
+- Definição de variáveis colineares e como lidar com elas
+- Métodos de seleção de variáveis
+- Seleção univariada
+  > Busca encontrar qual o conjunto de variáveis melhor explica o fenômeno em estudo fazendo uso do coeficiente de correlação para selecionar as variáveis.
+- Seleção por importância
+  > A importância é calculada a partir da capacidade de uma variável conseguir particionar o conjunto de dados de maneira homogênea.
+- Seleção por subset
+  > A seleção por subconjuntos aplica uma sequência de passos ao testar como o modelo se comporta em termos de performance com a adição de variáveis ao conjunto de variáveis selecionadas e verificando a performance do modelo. Caso a performance aumente, a variável adicionada como teste e mantida, caso contrário, a mesma é removida.
+- Algoritmo Boruta
+  > Aplicação para selecionar o conjunto de variáveis mais relevantes para o modelo.
+
 ## Dependências
 
 - Matplotlib
@@ -139,6 +153,7 @@ Estão localizados no diretório `data`
 - IPython
 - Scipy
 - Sklearn
+- Boruta
 
 ## Criador
 
