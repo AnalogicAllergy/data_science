@@ -76,7 +76,7 @@ Estão localizados no diretório `data`
 - [x] Feature Engineering
 - [x] Filtragem de Variáveis
 - [x] Análise Exploratória de Dados (EDA)
-- [ ] Preparação dos Dados
+- [x] Preparação dos Dados
 - [ ] Seleção de Variáveis com Algoritmo
 - [ ] Modelos de Machine Learning
 - [ ] Hyperparameter Fine Tuning
@@ -126,6 +126,7 @@ Estão localizados no diretório `data`
 - Aplicação de _rescaling_ utilizando técnicas de RobustScaling para variáveis com _outliers_ mais elevados
 - Aplicação de _rescaling_ utilizando técnicas de MinMaxScaling para variáveis com _outliers_ menos elevados
 - Aplicação de _encoding_ nas variáveis categóricas - LabelEncoding, One Hot Encoding e Ordinal Encoding
+- Implementação da transformação de natureza das variáveis com características cíclicas (dia, mês, semana do ano, dia da semana) através de técnicas trigonométricas (sin e cos)
 
 ## Dependências
 
