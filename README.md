@@ -130,7 +130,7 @@ Estão localizados no diretório `data`
 
 ### Seleção de variáveis com algoritmo
 
-- Visa enteder a relevância das variáveis para o modelo.
+- Visa entender a relevância das variáveis para o modelo.
 - Definição de variáveis colineares e como lidar com elas
 - Métodos de seleção de variáveis
 - Seleção univariada
@@ -141,6 +141,17 @@ Estão localizados no diretório `data`
   > A seleção por subconjuntos aplica uma sequência de passos ao testar como o modelo se comporta em termos de performance com a adição de variáveis ao conjunto de variáveis selecionadas e verificando a performance do modelo. Caso a performance aumente, a variável adicionada como teste e mantida, caso contrário, a mesma é removida.
 - Algoritmo Boruta
   > Aplicação para selecionar o conjunto de variáveis mais relevantes para o modelo.
+
+### Modelos de Machine Learning
+
+- Apresentação dos modelos supervisionados, não supervisionados e semi-supervisionados (reinforcement learning)
+- Apresentação das tarefas de classificação, regressão e clusterização
+- Definição dos cinco melhores modelos para regressão dado o problema de previsão de vendas nas lojas
+  - Modelo de Média
+  - Regressão linear
+  - Regressão linear regularizada
+  - Random Forest
+  - XGBoost
 
 ## Dependências
 
