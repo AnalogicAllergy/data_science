@@ -78,7 +78,7 @@ Estão localizados no diretório `data`
 - [x] Análise Exploratória de Dados (EDA)
 - [x] Preparação dos Dados
 - [x] Seleção de Variáveis com Algoritmo
-- [ ] Modelos de Machine Learning
+- [x] Modelos de Machine Learning
 - [ ] Hyperparameter Fine Tuning
 - [ ] Interpretação e Tradução do Erro
 
@@ -152,6 +152,9 @@ Estão localizados no diretório `data`
   - Regressão linear regularizada
   - Random Forest
   - XGBoost
+- Comparação de performance dos algoritmos de Machine Learning
+- Realização de Cross Validation nos dados
+- Comparação da performance dos modelos quanto aos dados com cross validation
 
 ## Dependências
 
@@ -165,6 +168,7 @@ Estão localizados no diretório `data`
 - Scipy
 - Sklearn
 - Boruta
+- XGBoost
 
 ## Criador
 
