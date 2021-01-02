@@ -79,8 +79,8 @@ Estão localizados no diretório `data`
 - [x] Preparação dos Dados
 - [x] Seleção de Variáveis com Algoritmo
 - [x] Modelos de Machine Learning
-- [ ] Hyperparameter Fine Tuning
-- [ ] Interpretação e Tradução do Erro
+- [x] Hyperparameter Fine Tuning
+- [x] Interpretação e Tradução do Erro
 
 ## Progresso
 
@@ -155,6 +155,15 @@ Estão localizados no diretório `data`
 - Comparação de performance dos algoritmos de Machine Learning
 - Realização de Cross Validation nos dados
 - Comparação da performance dos modelos quanto aos dados com cross validation
+
+### Hyperparameter Fine Tuning
+
+- Seleção dos melhores parâmetros para o modelo a ser treinado.
+
+### Interpretação e tradução do erro
+
+- Como interpretar os erros do modelo MAE, MAPE E RMSE para reporte negocial
+- Criação de melhores e piores cenários de vendas
 
 ## Dependências
 
