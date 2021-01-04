@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "/home/analogicallergy/.pyenv/versions/rossmann/bin/python"
+  "python.pythonPath": "/home/analogicallergy/.pyenv/versions/rossmann/bin/python",
+  "jupyter.jupyterServerType": "remote"
 }

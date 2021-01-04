@@ -165,7 +165,17 @@ Estão localizados no diretório `data`
 - Como interpretar os erros do modelo MAE, MAPE E RMSE para reporte negocial
 - Criação de melhores e piores cenários de vendas
 
-## Dependências
+## Finalização do Projeto
+
+- Nesse passo foi feito o deploy do modelo em produção no Heroku (API e Classe Preditora)
+- Disponibilização de um endpoint para consulta de previsão de vendas em uma loja específica
+- Disponibilização de um bot no Telegram para consulta da previsão de vendas
+
+## Previsões rodando no Telegram
+
+![Telegram Bot]('img/rossman-bot.gif')
+
+## Ferramentas utilizadas
 
 - Matplotlib
 - Seaborn
@@ -178,6 +188,7 @@ Estão localizados no diretório `data`
 - Sklearn
 - Boruta
 - XGBoost
+- Heroku
 
 ## Criador
 
