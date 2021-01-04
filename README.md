@@ -173,7 +173,7 @@ Estão localizados no diretório `data`
 
 ## Previsões rodando no Telegram
 
-![]('img/rossmann-bot.gif')
+![Telegram Bot](img/rossmann-bot.gif)
 
 ## Ferramentas utilizadas
 
