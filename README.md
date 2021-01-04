@@ -189,6 +189,7 @@ Estão localizados no diretório `data`
 - Boruta
 - XGBoost
 - Heroku
+- Flask
 
 ## Criador
 
